@@ -1,0 +1,34 @@
+.main-body {
+  font-family: "Special Elite", cursive;
+  background: #232323;
+}
+
+#flip {
+  font-size: 40px;
+  float: right;
+  text-align: center;
+  margin-right: 5%;
+  margin-top: 2%;
+  text-align: center;
+  cursor: pointer;
+}
+
+#panel {
+  display: none;
+  margin-top: 100px;
+  float: left;
+  padding-right: 20px;
+  margin-left: 5%;
+  margin-top: 10%;
+  font-size: 30px;
+  text-align: center;
+}
+
+.clickon,
+.textopen {
+  color: #fff;
+}
+
+#panel li {
+  list-style-type: none;
+}
